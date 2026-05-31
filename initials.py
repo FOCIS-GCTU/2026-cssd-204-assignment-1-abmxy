@@ -5,7 +5,7 @@
 # Name: Mark Asante-Boamah
 # STUDENT ID:  2425402777
 # Email: 2425402777@live.gctu.edu.gh
-# Grader: Carolyn
+# Grader: Augustus
 #
 # On my honor,Mark Asante-Boamah, this programming assignment is my own work
 # and I have not provided this code to any other student.
